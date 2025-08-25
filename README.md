@@ -21,6 +21,8 @@ Databases: | SQL
 
 Interests: AI | Machine Learning | Data Science | Software Development
 
+goal:love to make use of AI in every part of computer science
+
 📫 Connect with Me
 
 🌐 LinkedIn
