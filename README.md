@@ -1,7 +1,7 @@
 Hi, I'm Mohammed Munsif🦅
 
 🎓 Third-year Computer Science Engineering student with a strong passion for Artificial Intelligence, Machine Learning, and Data Science.
-💻 Skilled in Python, Java, Assembly, and Database Management (MS Access).
+💻 Skilled in Python, Java,  and Database Management 
 🛠️ Experienced in building projects around:
 
 Mathematical computations 🧮
@@ -17,7 +17,7 @@ Low-level programming & system fundamentals ⚙️
 
 Languages: Python | Java | Assembly
 
-Databases: Microsoft Access | SQL
+Databases: | SQL
 
 Interests: AI | Machine Learning | Data Science | Software Development
 
